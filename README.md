@@ -1,0 +1,2 @@
+# FitCoral
+AVAX Moralis Hackthon
