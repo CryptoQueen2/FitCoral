@@ -14,6 +14,7 @@ RewardDistributor .txt file
 **Contract Addresses:**
 
 CoralFit: 0xEFCEF3cFA190eDb7b0f8D1D60118FDfe631b6dC2
+
 RewardDistributor: 0xd9145CCE52D386f254917e481eB44e9943F39138
 
 
